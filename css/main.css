@@ -1,0 +1,54 @@
+
+img{
+    max-width: 100%;
+    
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 100px;
+}
+.pacifico{
+    font-family: 'Pacifico', cursive;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.grande{
+    font-size: 4em;
+}
+.verde{
+    color: #989915;
+}
+.retraso{
+    animation-delay: 500ms;
+}
+.retraso2{
+    animation-delay: 2s;
+}
+a,.azul{
+    color: blue;
+}
+.no-lista li{
+    list-style-type: none;
+}
+.espacio-derecha{
+    margin-right: 1em;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+}
+.se-gris{
+    background: darkgray;
+}
+.padding-largo{
+    padding:5px 10px ;
+}
+.vete-arriba{
+    vertical-align: top;
+}
+.mediano{
+    font-size: 1em;
+}
